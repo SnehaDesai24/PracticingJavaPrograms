@@ -1,5 +1,5 @@
 /* Given 2 array. Array1 is Integer type and Array2 is String type.
- * Print content of both the array using single method using generic method.
+ * Print content of both the array using single method, using generic method.
  * For Example:-
  * Array1 :- 1 2 3
  * Arra2 :- "Hello" "Welcome"
@@ -7,7 +7,6 @@
  * */
 
 
-import java.io.IOException;
 import java.lang.reflect.Method;
 
 class Printer
